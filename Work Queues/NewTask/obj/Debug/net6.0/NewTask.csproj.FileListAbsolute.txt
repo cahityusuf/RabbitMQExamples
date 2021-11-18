@@ -1,0 +1,17 @@
+C:\Çalışmalar\RabbitMQExamples\Work Queues\NewTask\bin\Debug\net6.0\NewTask.exe
+C:\Çalışmalar\RabbitMQExamples\Work Queues\NewTask\bin\Debug\net6.0\NewTask.deps.json
+C:\Çalışmalar\RabbitMQExamples\Work Queues\NewTask\bin\Debug\net6.0\NewTask.runtimeconfig.json
+C:\Çalışmalar\RabbitMQExamples\Work Queues\NewTask\bin\Debug\net6.0\NewTask.dll
+C:\Çalışmalar\RabbitMQExamples\Work Queues\NewTask\bin\Debug\net6.0\ref\NewTask.dll
+C:\Çalışmalar\RabbitMQExamples\Work Queues\NewTask\bin\Debug\net6.0\NewTask.pdb
+C:\Çalışmalar\RabbitMQExamples\Work Queues\NewTask\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Çalışmalar\RabbitMQExamples\Work Queues\NewTask\obj\Debug\net6.0\NewTask.csproj.AssemblyReference.cache
+C:\Çalışmalar\RabbitMQExamples\Work Queues\NewTask\obj\Debug\net6.0\NewTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Çalışmalar\RabbitMQExamples\Work Queues\NewTask\obj\Debug\net6.0\NewTask.AssemblyInfoInputs.cache
+C:\Çalışmalar\RabbitMQExamples\Work Queues\NewTask\obj\Debug\net6.0\NewTask.AssemblyInfo.cs
+C:\Çalışmalar\RabbitMQExamples\Work Queues\NewTask\obj\Debug\net6.0\NewTask.csproj.CoreCompileInputs.cache
+C:\Çalışmalar\RabbitMQExamples\Work Queues\NewTask\obj\Debug\net6.0\NewTask.csproj.CopyComplete
+C:\Çalışmalar\RabbitMQExamples\Work Queues\NewTask\obj\Debug\net6.0\NewTask.dll
+C:\Çalışmalar\RabbitMQExamples\Work Queues\NewTask\obj\Debug\net6.0\ref\NewTask.dll
+C:\Çalışmalar\RabbitMQExamples\Work Queues\NewTask\obj\Debug\net6.0\NewTask.pdb
+C:\Çalışmalar\RabbitMQExamples\Work Queues\NewTask\obj\Debug\net6.0\NewTask.genruntimeconfig.cache

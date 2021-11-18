@@ -1,0 +1,17 @@
+C:\Çalışmalar\RabbitMQExamples\Routing\ReceiveLogsDirect\bin\Debug\net6.0\ReceiveLogsDirect.exe
+C:\Çalışmalar\RabbitMQExamples\Routing\ReceiveLogsDirect\bin\Debug\net6.0\ReceiveLogsDirect.dll
+C:\Çalışmalar\RabbitMQExamples\Routing\ReceiveLogsDirect\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Çalışmalar\RabbitMQExamples\Routing\ReceiveLogsDirect\obj\Debug\net6.0\ReceiveLogsDirect.csproj.AssemblyReference.cache
+C:\Çalışmalar\RabbitMQExamples\Routing\ReceiveLogsDirect\obj\Debug\net6.0\ReceiveLogsDirect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Çalışmalar\RabbitMQExamples\Routing\ReceiveLogsDirect\obj\Debug\net6.0\ReceiveLogsDirect.AssemblyInfoInputs.cache
+C:\Çalışmalar\RabbitMQExamples\Routing\ReceiveLogsDirect\obj\Debug\net6.0\ReceiveLogsDirect.AssemblyInfo.cs
+C:\Çalışmalar\RabbitMQExamples\Routing\ReceiveLogsDirect\obj\Debug\net6.0\ReceiveLogsDirect.csproj.CoreCompileInputs.cache
+C:\Çalışmalar\RabbitMQExamples\Routing\ReceiveLogsDirect\obj\Debug\net6.0\ReceiveLogsDirect.csproj.CopyComplete
+C:\Çalışmalar\RabbitMQExamples\Routing\ReceiveLogsDirect\obj\Debug\net6.0\ReceiveLogsDirect.dll
+C:\Çalışmalar\RabbitMQExamples\Routing\ReceiveLogsDirect\obj\Debug\net6.0\ref\ReceiveLogsDirect.dll
+C:\Çalışmalar\RabbitMQExamples\Routing\ReceiveLogsDirect\obj\Debug\net6.0\ReceiveLogsDirect.pdb
+C:\Çalışmalar\RabbitMQExamples\Routing\ReceiveLogsDirect\bin\Debug\net6.0\ReceiveLogsDirect.deps.json
+C:\Çalışmalar\RabbitMQExamples\Routing\ReceiveLogsDirect\bin\Debug\net6.0\ReceiveLogsDirect.runtimeconfig.json
+C:\Çalışmalar\RabbitMQExamples\Routing\ReceiveLogsDirect\bin\Debug\net6.0\ref\ReceiveLogsDirect.dll
+C:\Çalışmalar\RabbitMQExamples\Routing\ReceiveLogsDirect\bin\Debug\net6.0\ReceiveLogsDirect.pdb
+C:\Çalışmalar\RabbitMQExamples\Routing\ReceiveLogsDirect\obj\Debug\net6.0\ReceiveLogsDirect.genruntimeconfig.cache

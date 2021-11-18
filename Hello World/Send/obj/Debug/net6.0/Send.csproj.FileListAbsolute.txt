@@ -1,0 +1,17 @@
+C:\Çalışmalar\RabbitMQExamples\Send\bin\Debug\net6.0\Send.exe
+C:\Çalışmalar\RabbitMQExamples\Send\bin\Debug\net6.0\Send.deps.json
+C:\Çalışmalar\RabbitMQExamples\Send\bin\Debug\net6.0\Send.runtimeconfig.json
+C:\Çalışmalar\RabbitMQExamples\Send\bin\Debug\net6.0\Send.dll
+C:\Çalışmalar\RabbitMQExamples\Send\bin\Debug\net6.0\ref\Send.dll
+C:\Çalışmalar\RabbitMQExamples\Send\bin\Debug\net6.0\Send.pdb
+C:\Çalışmalar\RabbitMQExamples\Send\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Çalışmalar\RabbitMQExamples\Send\obj\Debug\net6.0\Send.csproj.AssemblyReference.cache
+C:\Çalışmalar\RabbitMQExamples\Send\obj\Debug\net6.0\Send.GeneratedMSBuildEditorConfig.editorconfig
+C:\Çalışmalar\RabbitMQExamples\Send\obj\Debug\net6.0\Send.AssemblyInfoInputs.cache
+C:\Çalışmalar\RabbitMQExamples\Send\obj\Debug\net6.0\Send.AssemblyInfo.cs
+C:\Çalışmalar\RabbitMQExamples\Send\obj\Debug\net6.0\Send.csproj.CoreCompileInputs.cache
+C:\Çalışmalar\RabbitMQExamples\Send\obj\Debug\net6.0\Send.csproj.CopyComplete
+C:\Çalışmalar\RabbitMQExamples\Send\obj\Debug\net6.0\Send.dll
+C:\Çalışmalar\RabbitMQExamples\Send\obj\Debug\net6.0\ref\Send.dll
+C:\Çalışmalar\RabbitMQExamples\Send\obj\Debug\net6.0\Send.pdb
+C:\Çalışmalar\RabbitMQExamples\Send\obj\Debug\net6.0\Send.genruntimeconfig.cache

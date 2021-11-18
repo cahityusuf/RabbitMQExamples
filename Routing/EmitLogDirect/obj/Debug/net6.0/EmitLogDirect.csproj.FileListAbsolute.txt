@@ -1,0 +1,17 @@
+C:\Çalışmalar\RabbitMQExamples\Routing\EmitLogDirect\bin\Debug\net6.0\EmitLogDirect.exe
+C:\Çalışmalar\RabbitMQExamples\Routing\EmitLogDirect\bin\Debug\net6.0\EmitLogDirect.deps.json
+C:\Çalışmalar\RabbitMQExamples\Routing\EmitLogDirect\bin\Debug\net6.0\EmitLogDirect.runtimeconfig.json
+C:\Çalışmalar\RabbitMQExamples\Routing\EmitLogDirect\bin\Debug\net6.0\EmitLogDirect.dll
+C:\Çalışmalar\RabbitMQExamples\Routing\EmitLogDirect\bin\Debug\net6.0\ref\EmitLogDirect.dll
+C:\Çalışmalar\RabbitMQExamples\Routing\EmitLogDirect\bin\Debug\net6.0\EmitLogDirect.pdb
+C:\Çalışmalar\RabbitMQExamples\Routing\EmitLogDirect\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Çalışmalar\RabbitMQExamples\Routing\EmitLogDirect\obj\Debug\net6.0\EmitLogDirect.csproj.AssemblyReference.cache
+C:\Çalışmalar\RabbitMQExamples\Routing\EmitLogDirect\obj\Debug\net6.0\EmitLogDirect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Çalışmalar\RabbitMQExamples\Routing\EmitLogDirect\obj\Debug\net6.0\EmitLogDirect.AssemblyInfoInputs.cache
+C:\Çalışmalar\RabbitMQExamples\Routing\EmitLogDirect\obj\Debug\net6.0\EmitLogDirect.AssemblyInfo.cs
+C:\Çalışmalar\RabbitMQExamples\Routing\EmitLogDirect\obj\Debug\net6.0\EmitLogDirect.csproj.CoreCompileInputs.cache
+C:\Çalışmalar\RabbitMQExamples\Routing\EmitLogDirect\obj\Debug\net6.0\EmitLogDirect.csproj.CopyComplete
+C:\Çalışmalar\RabbitMQExamples\Routing\EmitLogDirect\obj\Debug\net6.0\EmitLogDirect.dll
+C:\Çalışmalar\RabbitMQExamples\Routing\EmitLogDirect\obj\Debug\net6.0\ref\EmitLogDirect.dll
+C:\Çalışmalar\RabbitMQExamples\Routing\EmitLogDirect\obj\Debug\net6.0\EmitLogDirect.pdb
+C:\Çalışmalar\RabbitMQExamples\Routing\EmitLogDirect\obj\Debug\net6.0\EmitLogDirect.genruntimeconfig.cache

@@ -1,0 +1,17 @@
+C:\Çalışmalar\RabbitMQExamples\Work Queues\Worker\obj\Debug\net6.0\Worker.csproj.AssemblyReference.cache
+C:\Çalışmalar\RabbitMQExamples\Work Queues\Worker\obj\Debug\net6.0\Worker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Çalışmalar\RabbitMQExamples\Work Queues\Worker\obj\Debug\net6.0\Worker.AssemblyInfoInputs.cache
+C:\Çalışmalar\RabbitMQExamples\Work Queues\Worker\obj\Debug\net6.0\Worker.AssemblyInfo.cs
+C:\Çalışmalar\RabbitMQExamples\Work Queues\Worker\obj\Debug\net6.0\Worker.csproj.CoreCompileInputs.cache
+C:\Çalışmalar\RabbitMQExamples\Work Queues\Worker\bin\Debug\net6.0\Worker.exe
+C:\Çalışmalar\RabbitMQExamples\Work Queues\Worker\bin\Debug\net6.0\Worker.deps.json
+C:\Çalışmalar\RabbitMQExamples\Work Queues\Worker\bin\Debug\net6.0\Worker.runtimeconfig.json
+C:\Çalışmalar\RabbitMQExamples\Work Queues\Worker\bin\Debug\net6.0\Worker.dll
+C:\Çalışmalar\RabbitMQExamples\Work Queues\Worker\bin\Debug\net6.0\ref\Worker.dll
+C:\Çalışmalar\RabbitMQExamples\Work Queues\Worker\bin\Debug\net6.0\Worker.pdb
+C:\Çalışmalar\RabbitMQExamples\Work Queues\Worker\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Çalışmalar\RabbitMQExamples\Work Queues\Worker\obj\Debug\net6.0\Worker.csproj.CopyComplete
+C:\Çalışmalar\RabbitMQExamples\Work Queues\Worker\obj\Debug\net6.0\Worker.dll
+C:\Çalışmalar\RabbitMQExamples\Work Queues\Worker\obj\Debug\net6.0\ref\Worker.dll
+C:\Çalışmalar\RabbitMQExamples\Work Queues\Worker\obj\Debug\net6.0\Worker.pdb
+C:\Çalışmalar\RabbitMQExamples\Work Queues\Worker\obj\Debug\net6.0\Worker.genruntimeconfig.cache
