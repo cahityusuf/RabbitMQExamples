@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "/2/f2CzOg7gCCjKbvYmMHXain+X3MzfJJ04VbPNGDkVFeNFqP5OUG81PTgyewfVadD6lFU8VhzXQp80fOGW5Jw==",
+  "success": true,
+  "projectFilePath": "C:\\Çalışmalar\\RabbitMQExamples\\topics\\ReceiveLogsTopic\\ReceiveLogsTopic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cahit.kafadar\\.nuget\\packages\\rabbitmq.client\\6.2.2\\rabbitmq.client.6.2.2.nupkg.sha512",
+    "C:\\Users\\cahit.kafadar\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\cahit.kafadar\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
